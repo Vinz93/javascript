@@ -1,8 +1,13 @@
 //   Objects
 
 // 4.1
-box = {width : 6 , height : 4  , volume : 23 ,
-    material: "metal" , destination : "orlando" , "# books" : 0
+const box = {
+  width : 6 ,
+  height : 4  ,
+  volume : 23 ,
+  material: "metal" ,
+  destination : "orlando" ,
+  "# books" : 0
 }
 
 console.log('Box object :', box);
@@ -17,7 +22,7 @@ console.log('Box volume: ', box.volume);
 // ejem box["material"] o box["# books"]
  console.log('# books :', box["# books"]);
 
-addBook(box,"vincenzo", "dont believe in limits");
+addBook(box,"vincenzo", "meeh");
 addBook(box,"heue","arnold");
 console.log(box);
 function addBook(box , name , writer) {
