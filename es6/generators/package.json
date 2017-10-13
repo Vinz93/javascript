@@ -1,0 +1,22 @@
+{
+  "name": "generator-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel",
+    "start": "babel-node generator.js",
+    "example1": "babel-node example1.js",
+    "example2": "babel-node example2.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^4.7.16",
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^1.6.3"
+  }
+}
