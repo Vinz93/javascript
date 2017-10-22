@@ -66,3 +66,4 @@ ____
 ## Bibliography
 + [Egghead.io Redux Course Notes](https://github.com/eggheadio/egghead.io_redux_course_notes)
 + [Redux three principles](http://redux.js.org/docs/introduction/ThreePrinciples.html)
++ [Pure functions](https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c)
