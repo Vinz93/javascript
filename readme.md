@@ -5,6 +5,7 @@
 <h5 align="center">A cohesive guide for learning Javascript.</h5>
 
 <p align="center">:warning: Work In Progress :warning:</p>
+
 ## Table of Contents
 
 #### Getting Started
