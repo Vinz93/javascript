@@ -41,6 +41,18 @@
   // arr: [4, 3, 2, 1]
  ```
 
+#### Mutator methods
+
+ - **forEach**
+
+ Executes a provided function once for each array element.
+
+  ```js
+  arr1.forEach((element, index, array) => {
+      /* Executes one for each element */
+      console.log(element === array[index]);
+  });
+  ```
 // sort
 Map
 Reduce
