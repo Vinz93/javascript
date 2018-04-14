@@ -1,5 +1,3 @@
-'use strict'
-
 var array = [1,2,3,4,5];
 
 var stdout = process.stdout;

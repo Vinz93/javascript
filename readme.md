@@ -9,10 +9,10 @@
 ## Table of Contents
 
 #### Getting Started
-- [Basic Concepts and Overviews](./basics/basic-concepts.md)
-- [Arrays](./basics/basic-concepts.md)
-- [Objects](./basics/basic-concepts.md)
-- [Functions Expressions](./basics/basic-concepts.md)
+- [Basic Concepts and Overviews](./basics/basic-concepts.md) :warning:
+- [Arrays](./basics/arrays.md)
+- [Objects](./basics/objects.md)
+- [Functions Expressions](./basics/function-expressions.md)
 
 
 #### ES6
@@ -28,11 +28,11 @@
 
 #### Advanced Topics
 - [Closures](./ES6/basic-concepts.md)
-- [Hoisting](./ES6/basic-concepts.md):warning:
-- [Scopes](./ES6/basic-concepts.md):warning:
-- [Prototypes](./ES6/basic-concepts.md):warning:
-- [Bind, Call, Apply](./ES6/basic-concepts.md):warning:
-- [IIFE](./ES6/basic-concepts.md):warning:
+- [Hoisting](./ES6/basic-concepts.md) :warning:
+- [Scopes](./ES6/basic-concepts.md) :warning:
+- [Prototypes](./ES6/basic-concepts.md) :warning:
+- [Bind, Call, Apply](./ES6/basic-concepts.md) :warning:
+- [IIFE](./ES6/basic-concepts.md) :warning:
 - [Generators](./ES6/basic-concepts.md)
 - [Promises](./ES6/basic-concepts.md)
-- [Arrow functions vs functions](./ES6/basic-concepts.md):warning:
+- [Arrow functions vs functions](./ES6/basic-concepts.md) :warning:
