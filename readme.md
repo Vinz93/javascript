@@ -10,8 +10,8 @@
 
 #### Getting Started
 - [Basic Concepts and Overviews](./basics/basic-concepts.md) :warning:
-- [Arrays](./basics/arrays.md)
-- [Objects](./basics/objects.md)
+- [Arrays](./basics/arrays.md) 🔧
+- [Objects](./basics/objects.md) 🔧
 - [Functions Expressions](./basics/function-expressions.md)
 
 
