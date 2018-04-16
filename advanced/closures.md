@@ -20,4 +20,4 @@ In the example above, the inner function can access the outer function's variabl
 
 ### Resources
 
-- [Clousures - Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [Closures - Mozilla Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
