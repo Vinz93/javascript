@@ -26,8 +26,8 @@
 #### ES7
 - [Async Await](./ES7/basic-concepts.md)
 
-#### Advanced Topics
-- [Closures](./advances/closures.md)
+#### Advanced Topicsgit
+- [Closures](./advanced/closures.md)
 - [Hoisting](./ES6/basic-concepts.md) :warning:
 - [Scopes](./ES6/basic-concepts.md) :warning:
 - [Prototypes](./ES6/basic-concepts.md) :warning:
