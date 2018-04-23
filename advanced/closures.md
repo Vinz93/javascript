@@ -42,6 +42,23 @@ teslaFabric('Barbara');
 fourRunnerFabric('Vincenzo');
 /* owner: Vincenzo, model: 4runner, id: 1  */
 ```
+
+```js
+const passagerArray = ['leia', 'boba', 'han', 'luke'];
+
+assingTorpedo('luke', passagerArray)();
+
+function assingTorpedo(name, passagerArray) {
+    for (const i = 0; i < passagerArray.length; i++) {
+        if (passagerArray[i] == name) {
+            return function() {
+                console.log('wow, ' + name + '! \n' +
+                    'Man yor post at toprpedo #' + (i + 1) + "! \n");
+            };
+        }
+    }
+}
+```
 [Try it in jsbin](http://jsbin.com/cahowol/2/edit?html,js,output)
 
 ### Resources
